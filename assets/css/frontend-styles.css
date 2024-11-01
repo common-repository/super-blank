@@ -1,0 +1,9 @@
+/* Elementor style */
+.elementor-element-overlay>ul {
+	margin-top: 0;
+}
+
+#elementor-panel-elements-notice-area,
+#elementor-panel-get-pro-elements-sticky {
+	display: none !important;
+}
